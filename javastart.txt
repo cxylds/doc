@@ -1,0 +1,32 @@
+1、下载浏览器，火狐或谷歌
+百度
+https://www.baidu.com/
+火狐浏览器
+http://www.firefox.com.cn/
+2、下载git bash
+https://git-scm.com/
+http://npm.taobao.org/mirrors/git-for-windows/v2.22.0.windows.1/
+git bash
+3、准备邮箱
+www.126.com
+4、注册开源账号
+www.github.com
+5、生成ssh密钥
+ssh-keygen -t rsa -C "youremail@example.com"
+cat ~/.ssh/id_rsa.pub
+ ls ~/.ssh/
+https://github.com/settings/profile
+git@github.com:cxylds/doc.git
+ mkdir doc
+cd doc/
+ git clone git@github.com:cxylds/doc.git
+
+6、创建仓库
+7、配置ssh密钥访问。
+8、克隆到本地
+  git@github.com:cxylds/doc.git
+9、提交代码
+
+
+
+
